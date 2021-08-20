@@ -1,5 +1,5 @@
 - 👋 Salut ! Moi c'est Peufra.exe
-- 👀 Je suis intéresser par le développement et le "Hacking"
+- 👀 Je suis intéresser par le développement
 - 🌱 Cela fais maintenant 4 semaines que j'apprends le language Python
 - 📫 Tu peux me retrouver à l'aide de mon Discord : Peufra#0810
 <!---
